@@ -1,24 +1,4 @@
 {
-  "8.1": {
-    "php_src_repo": "php/php-src",
-    "php_src_branch": "PHP-8.1-CVE-2026-109618-109619",
-    "php_src_sha": "1d7dec178a094e6e75b229ce22754045f8c6070a",
-    "base_version": "8.1.34",
-    "patch_level": 1,
-    "compiler": "Visual C++ 2019",
-    "build_provider": true,
-    "extra_configure": []
-  },
-  "8.0": {
-    "php_src_repo": "php/php-src",
-    "php_src_branch": "PHP-8.0-CVE-2026-109618-109619",
-    "php_src_sha": "82f8f31b16a035c1b67cc253e79f7cc288f4cc20",
-    "base_version": "8.0.30",
-    "patch_level": 1,
-    "compiler": "Visual C++ 2019",
-    "build_provider": true,
-    "extra_configure": []
-  },
   "7.4": {
     "php_src_repo": "php/php-src",
     "php_src_branch": "PHP-7.4-CVE-2026-109618-109619",
