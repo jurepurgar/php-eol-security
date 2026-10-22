@@ -16,7 +16,7 @@ on:
 env:
   # Official Windows builder (php/php-windows-builder), pinned
   BUILDER_SHA: 5f63433eb2bda2ca8d0d970fe487be84f7ab195c
-  PHP_BUILD_PROVIDER: "Jamal TANTAOUI (unofficial EOL security build) - https://github.com/Jamalofski/php-eol-security"
+  PHP_BUILD_PROVIDER: "Kolektor IT - Bober (https://bober.kolektor.com)"
 
 permissions:
   contents: read
